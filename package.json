@@ -28,7 +28,7 @@
         "test:coverage": "npm run test --selectProjects unit --coverage --"
     },
     "dependencies": {
-        "qs": "6.11.1"
+        "qs": "6.14.2"
     },
     "peerDependencies": {
         "@diia-inhouse/errors": ">=1.0.0",
